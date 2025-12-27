@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/mapper/ArticleMapper.java" value="3fe99080-4aff-4b72-bb88-677ab8aa68cc" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/mapper/CategoryMapper.java" value="3fe99080-4aff-4b72-bb88-677ab8aa68cc" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/mapper/UserMapper.java" value="3fe99080-4aff-4b72-bb88-677ab8aa68cc" />
+  </component>
+</project>
